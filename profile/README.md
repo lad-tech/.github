@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+We create web services, applications for mobile platforms and IT ecosystems and solve other non-trivial tasks.
+
+## Useful resource
+
+- [Code of Conduct](https://github.com/lad-tech/.github/blob/main/CODE_OF_CONDUCT.md#code-of-conduct)
+
 <!--
 
 **Here are some ideas to get you started:**
