@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We create web services, applications for mobile platforms and IT ecosystems and solve other non-trivial tasks.
+We will be glad to any contribution to any project
 
 ## Useful resource
 
