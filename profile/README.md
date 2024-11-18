@@ -5,7 +5,7 @@ We will be glad to any contribution to any project
 ## Useful resource
 
 - [Code of Conduct](https://github.com/lad-tech/.github/blob/main/CODE_OF_CONDUCT.md#code-of-conduct)
-- [Lad-tech Radar](https://lad-tech.github.io/)
+- [Lad-tech Radar](lad-tech.github.io/radar/)
 - [Our podcast](https://music.yandex.ru/album/23061878)
 - [Our telegram channel - DevHive](https://t.me/dev_hive)
 
